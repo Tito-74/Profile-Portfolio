@@ -37,17 +37,20 @@
 
 .kills-box {
     border: 1px solid;
-    align-items: center;
-    margin-top: 200px;
+    align-items: center!important;
+    /* margin-top: 200px; */
     border-radius: 15px 50px 30px 5px;
     box-shadow: 1px 5px 10px#d8b9ed;
 }
 
+.skills {
+    display: flex;
+    padding-top: 20px;
+}
 
-/* .skills {
-    background-color: #facae2;
-    text-align: center;
-} */
+.skills>p {
+    padding-left: 20px;
+}
 
 .container-col {
     background-color: #dcc7eb;
