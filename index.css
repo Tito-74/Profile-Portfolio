@@ -35,10 +35,19 @@
     background-color: #d8b9ed;
 }
 
-.skills {
+.kills-box {
+    border: 1px solid;
+    align-items: center;
+    margin-top: 200px;
+    border-radius: 15px 50px 30px 5px;
+    box-shadow: 1px 5px 10px#d8b9ed;
+}
+
+
+/* .skills {
     background-color: #facae2;
     text-align: center;
-}
+} */
 
 .container-col {
     background-color: #dcc7eb;
