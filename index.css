@@ -2,6 +2,13 @@
     background-color: antiquewhite;
 }
 
+.bg-img {
+    background-image: url("/assets/background.jpeg");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+
 .my-row {
     height: 350px;
     background-color: #ada0b8;
