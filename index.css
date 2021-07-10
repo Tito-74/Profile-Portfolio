@@ -17,7 +17,7 @@
 }
 
 .my-row1 {
-    background-image: url("/assets/background.jpeg");
+    /* background-image: url("/assets/background.jpeg"); */
     background-repeat: no-repeat;
     height: 700px;
     background-size: cover;
@@ -35,4 +35,19 @@
 
 .container-col {
     background-color: #dcc7eb;
+}
+
+.project {
+    text-align: center;
+}
+
+.header3 {
+    text-align: center;
+    padding-top: 40px!important;
+    background-color: #fcf2d7;
+}
+
+.project-row {
+    padding-top: 40px!important;
+    background-color: #fcf2d7;
 }
