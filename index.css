@@ -8,30 +8,10 @@
             height: 700px;
             background-size: cover;
         }
-        /* .my-row {
-                        height: 350px;
-                        background-color: #ada0b8;
-                    } */
         
         .header {
             text-align: center!important;
         }
-        /* .my-row2 {
-                height: 250px;
-                background-color: rgb(118, 165, 150);
-            }
-            
-            .my-row1 {
-            
-            background-repeat: no-repeat;
-            height: 700px;
-            background-size: cover;
-        }
-        */
-        /* .my-col {
-            margin-top: 40px !important;
-            background-color: #d8b9ed;
-        } */
         
         .kills-box {
             border: 1px solid;
@@ -64,13 +44,7 @@
         .header3 {
             text-align: center;
             padding-top: 40px!important;
-            /* padding-top: 40px!important;
-            background-color: #fcf2d7; */
         }
-        /* .project-row {
-            padding-top: 40px!important;
-            background-color: #fcf2d7;
-        } */
         
         .contact-bg {
             background-color: #bfb8b8;
@@ -90,8 +64,6 @@
             max-width: 800px;
             border: 1px solid gray;
             padding: 35px;
-            /* margin: 20%;
-            margin-top: 10%; */
             border-radius: 5px;
             background-color: #e4dede;
         }
