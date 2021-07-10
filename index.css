@@ -2,13 +2,6 @@
             background-color: antiquewhite;
         }
         
-        .bg-img {
-            background-image: url("/assets/background.jpeg");
-            background-repeat: no-repeat;
-            height: 700px;
-            background-size: cover;
-        }
-        
         .header {
             text-align: center!important;
         }
@@ -105,5 +98,5 @@
             text-align: center;
             margin: 0 auto;
             cursor: pointer;
-            background-color: blue;
+            background-color: rgb(81, 81, 88);
         }
