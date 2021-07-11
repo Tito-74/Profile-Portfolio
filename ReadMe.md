@@ -1,6 +1,6 @@
-# {Profile Portfolio}
+# Profile Portfolio
 #### {Brief description of application}, {Date of current version}
-#### By **{Langat Tito Kipkirui}**
+#### By **Langat Tito Kipkirui**
 ## Description
 {
     This is a website that highlights information about me and the skills that i have in the field of Information technology
@@ -9,9 +9,12 @@
 
 {To fix a bug or enhance an existing module, follow these steps: .Fork the repo .Create a new branch (git checkout -b improve-feature) .Make the appropriate changes in the files .Add changes to reflect the changes made .Commit your changes (git commit -am 'Improve feature') .Push to the branch (git push origin improve-feature) .Create a Pull Request}
 ## view the site 
-{ }
+tito-74.github.io/profile-portfolio/
 ## Technologies Used
-{.Github .html .css . boostrap }
+* Github 
+* HTML
+* CSS 
+* Boostrap 
 
 ### License
 *{MIT License
