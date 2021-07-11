@@ -1,10 +1,12 @@
 # Profile Portfolio
-#### {Brief description of application}, {Date of current version}
+### created on
+ 11/07/2021
 #### By **Langat Tito Kipkirui**
+
 ## Description
-{
+
     This is a website that highlights information about me and the skills that i have in the field of Information technology
- }
+ 
 ## Setup/Installation Requirements
 
 {To fix a bug or enhance an existing module, follow these steps: .Fork the repo .Create a new branch (git checkout -b improve-feature) .Make the appropriate changes in the files .Add changes to reflect the changes made .Commit your changes (git commit -am 'Improve feature') .Push to the branch (git push origin improve-feature) .Create a Pull Request}
@@ -17,9 +19,9 @@ tito-74.github.io/profile-portfolio/
 * Boostrap 
 
 ### License
-*{MIT License
+* MIT License
 
-Copyright (c) [2021] [Langat Tito Kipkirui]
+Copyright (c) 2021 Langat Tito Kipkirui
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,4 +39,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.} **{List of contributors or company name}**
+SOFTWARE. 
